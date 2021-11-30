@@ -1,0 +1,7 @@
+__pycache__
+* .pyc
+sortie /
+. * .swp
+.DS_Store
+env / *
+.idée /
