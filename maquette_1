@@ -1,0 +1,67 @@
+MAQUETTE 
+
+(première page plusieurs choix s'offre à nus, 
+on choisit un numéro correspondent on choix qu'on fera )
+
+1 = Rechercher un produit par categorie
+2 = Recherche de produit par son nom
+2 = Afficher ses substitus  
+
+Choix 1 (1ère étape)
+-------------- PAR CATEGORIE (1) -------------------------
+
+On obitient une liste de categorie :
+ 1. Pate à tartiner
+ 2. Boissons 
+ 3. Legumes
+ 4. Fruits
+...
+
+SUITE DU CHOIX 1 (2ème étapes)
+______________ Apres le chois de la categorie 2 (boisson)_______________
+
+1. Coca
+2. Fanta
+3. Selecto
+4. sprite
+5. Oasis
+...
+
+SUITE DU CHOIX 1 (3ème étapes)
+______________ après le Choix d'un produit  ________________
+
+**** COCA *****
+
+Nom : coca
+Nutriscore : ...
+Novascore  : ...
+url        : ...
+
+Proposition d'un substitus automatique.
+
+*** substitut du coca ***
+
+1. substitus 1 
+(name :.., novascore:.., nutriscore:.., url..:, magasin..:, marque..:,)
+
+2. substitus 2
+(name :.., novascore:.., nutriscore:.., url..:, magasin..:, marque..:,)
+
+3. etc...
+(name :.., novascore:.., nutriscore:.., url..:, magasin..:, marque..:,)
+
+Suite du choix 1 (4ème étapes)
+_____________ Après le choix du substitus ______________
+
+On choisit ou non de l'enregistrer en base de donnée (le substitus en question).
+
+on reviens sur la page d'acceuil
+
+Résumé du choix 1 :
+
+I    Chois par categorie
+II   Choix de la categorie boisson
+III  Choix du coca
+IV   Information du produit sélectionné
+V   Choix d'un substitus
+VI    Enregistrement ou non en base de données
