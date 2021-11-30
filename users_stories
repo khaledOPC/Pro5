@@ -1,0 +1,21 @@
+# Users Stories 
+
+En tant qu'utilisateurs je veux importer des donner de Open Food fact sur une BDD 
+
+- Créer un script sql with "create table"
+- Récupérer le top 10 des catégories
+- 1000 Porduits pour chaque catégories
+- Il faut sauvegarder le produit en BDD ( labels etc...)
+
+En tant qu'utilisateurs je veux chercher un produit et voir le subtiut pour comparer
+
+- Créer une Home page
+- Recherche par nom de produit
+- Rechercher par catégories 
+- Voir les substituts
+- Page pour lister les catégories
+
+En tant que user je veux voir la liste de substitutions
+
+- Afficher une liste pour les catégories
+- Classer les noms de catégories
