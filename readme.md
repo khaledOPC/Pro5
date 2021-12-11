@@ -15,11 +15,7 @@ mysql
 
 
 # Utilisation
-
-pip install python
-pip install mysql
-pip install requests
-pip install mysql.connector
+pip install -r requirements.txt
 python main.py
 
 
