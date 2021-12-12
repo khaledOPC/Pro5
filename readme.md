@@ -9,9 +9,9 @@ Liens github du projet 5 : https://github.com/khaledOPC/Pro5
 
 # Environnement testé
 
-Windows10
-python3.8
-mysql
+- Windows10
+- python3.8
+- mysql
 
 
 # Utilisation
